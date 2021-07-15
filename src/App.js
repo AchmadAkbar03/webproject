@@ -1,21 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
-
+import mataelang from './img/mataelang.png'
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={mataelang} className="App-logo" alt="mataelang" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Achmad <code>Akbar</code>
         </p>
+        <p>IBM CORPORATION</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/achmadakbarr_3/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          contact
         </a>
       </header>
     </div>
